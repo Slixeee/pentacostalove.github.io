@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+
+
+h1 {text-align: center;}
+p {text-align: center;
+    color: aqua;
+    font-family: sans-serif;
+    font-weight: bolder;}
+div {text-align: center;}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;}
+li {text-align: center;}
+h2 {text-align: center;}
